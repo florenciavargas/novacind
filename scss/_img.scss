@@ -1,0 +1,132 @@
+
+
+
+
+@media only screen and (min-width:564px){
+    .btn-nove{
+        margin-left: 20em;
+        margin-top: 1em;
+    }
+    .card-remeras{
+        width: 15rem;
+        height: 10rem;
+        
+    }
+    .div_productos-img{
+        height: 12rem;
+    }
+    .div_card_productos{
+        height: 22rem;
+    }
+
+    .card-enlace1{
+        margin-left: 10em;
+        color: black;
+        text-decoration: none;
+        background-color: pink;
+        border: 2px solid black;
+        border-radius: 7px;
+        padding: 3px;
+
+        
+    }
+
+    
+    .div_card-img{
+        width: 12rem;
+        height: 17rem;
+        padding: 1em;
+
+    }
+}
+
+
+@media only screen and (min-width:764px){
+    .div_card-img{
+        width: 18rem;
+        height: 22rem;
+        padding: 1em;
+    }
+    .btn-nove{
+        margin-left: 30em;
+        margin-top: 1em;
+    }
+    .div_productos-img{
+        height: 20rem;
+    }
+    .div_card_productos{
+        height: 30rem;
+    }
+
+    .card-enlace1{
+        margin-left: 40%;
+        margin-left: 45%;
+        color: black;
+        text-decoration: none;
+        background-color: pink;
+        border: 2px solid black;
+        border-radius: 7px;
+        padding: 3px;
+    }
+}
+
+.img-remeras{
+    height: 35rem;
+}
+
+
+
+@media only screen and (min-width:1024px){
+    .div_card-img{
+        width: 18rem;
+        height: 30rem;
+        padding: 1em;
+    }
+    .btn-nove{
+        margin-left: 40em;
+        margin-top: 1em;
+    }
+    .div_productos-img{
+        height: 30rem;
+    }
+    .div_productos-img1{
+        height: 27rem;
+    }
+    .div_card_productos{
+        height: 40rem;
+    }
+
+    .card-enlace1{
+        margin-left: 40%;
+        margin-left: 45%;
+        color: black;
+        text-decoration: none;
+        background-color: pink;
+        border: 2px solid black;
+        border-radius: 7px;
+        padding: 3px;
+    }
+}
+
+
+@media only screen and (min-width:1200px){
+    .div_card-img{
+        width: 25rem;
+        height: 40rem;
+        padding: 1em;
+    }
+    .div_card_productos{
+        height: 42rem;
+    }
+    
+    .card-enlace1{
+        margin-left: 45%;
+        color: black;
+        text-decoration: none;
+        background-color: pink;
+        border: 2px solid black;
+        border-radius: 7px;
+        padding: 3px;
+    }
+}
+

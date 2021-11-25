@@ -1,0 +1,37 @@
+.card-enlace{
+    color: black;
+    text-decoration: none;
+    background-color: pink;
+    border: 2px solid black;
+    border-radius: 7px;
+    padding: 3px;
+}
+
+.card-tit{
+    font-family: $font-tit;
+
+}
+.card-t{
+    font-family: $font-tit;
+}
+.card-comprar{
+    font-family: $font-tit;
+}
+
+.card-comprar{
+    color: white;
+    text-decoration: none;
+    border: 2px solid black;
+    padding:3px;
+    background-color: black;
+    border-radius: 7px;
+}
+
+.card-comprar:hover{
+    background-color: pink;
+    color: white;
+}
+.card-context{
+    margin: 2em;
+}
+
