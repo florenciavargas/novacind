@@ -27,8 +27,6 @@
         border: 2px solid black;
         border-radius: 7px;
         padding: 3px;
-
-        
     }
 
     
@@ -38,6 +36,14 @@
         padding: 1em;
 
     }
+    .logo__whatsapp{
+    position: fixed;
+    width: 3em;
+    bottom: .5em;
+    margin-left: 89%;
+    height: 3em;
+    z-index: 1;
+}
 }
 
 
@@ -67,6 +73,14 @@
         border: 2px solid black;
         border-radius: 7px;
         padding: 3px;
+    }
+    .logo__whatsapp{
+        position: fixed;
+        width: 4em;
+        bottom: .5em;
+        margin-left: 90%;
+        height: 4em;
+        z-index: 1;
     }
 }
 
@@ -127,6 +141,15 @@
         border: 2px solid black;
         border-radius: 7px;
         padding: 3px;
+    }
+
+    .logo__whatsapp{
+        position: fixed;
+        width: 5em;
+        bottom: .5em;
+        margin-left: 93%;
+        height: 5em;
+        z-index: 1;
     }
 }
 

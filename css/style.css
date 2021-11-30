@@ -85,7 +85,14 @@
   .div_card-img {
     width: 12rem;
     height: 17rem;
-    padding: 1em; } }
+    padding: 1em; }
+  .logo__whatsapp {
+    position: fixed;
+    width: 3em;
+    bottom: .5em;
+    margin-left: 89%;
+    height: 3em;
+    z-index: 1; } }
 
 @media only screen and (min-width: 764px) {
   .div_card-img {
@@ -107,7 +114,14 @@
     background-color: pink;
     border: 2px solid black;
     border-radius: 7px;
-    padding: 3px; } }
+    padding: 3px; }
+  .logo__whatsapp {
+    position: fixed;
+    width: 4em;
+    bottom: .5em;
+    margin-left: 90%;
+    height: 4em;
+    z-index: 1; } }
 
 .img-remeras {
   height: 35rem; }
@@ -150,7 +164,14 @@
     background-color: pink;
     border: 2px solid black;
     border-radius: 7px;
-    padding: 3px; } }
+    padding: 3px; }
+  .logo__whatsapp {
+    position: fixed;
+    width: 5em;
+    bottom: .5em;
+    margin-left: 93%;
+    height: 5em;
+    z-index: 1; } }
 
 /*!
  * Bootstrap v5.1.3 (https://getbootstrap.com/)
