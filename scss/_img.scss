@@ -1,8 +1,90 @@
+@media only screen and (max-width:564px) {
+    .card-context{
+        width: 11rem;
+        margin: 1%;
+    }
+
+    .card-tit{
+        font-family: $font-tit;
+        text-decoration: none;
+        
+    }
+
+    .logo__whatsapp{
+        position: fixed;
+        width: $wi-t -33em;
+        bottom: .5em;
+        margin-left: 83%;
+        height: $he-t/2;
+        z-index: 10;
+    }
+
+    .card_vendidos{
+        width: $wi-t/2;
+        margin-left: $mar-t+0.5em;
+    }
+
+    .div_carousel{
+        margin-left: $mar-t;
+    }
+
+    .novacTitulo{
+        font-size: 20px;
+    }
+
+    .btn-nove{
+        margin-left: $mar-t+1;
+        height: 3rem;
+    }
+
+    .productos-flex{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .div_card_productos{
+        width: 20rem;
+        margin-left: 1em;
+    }
+    .registrarme{
+        margin-top: $mar-t/2;
+    }
+    .informacion_registro{
+        margin-top: $mar-t/2;
+    }
+
+    .card-enlace1{
+        margin-left: 4em;
+        color: black;
+        text-decoration: none;
+        background-color: pink;
+        border: 2px solid black;
+        border-radius: 7px;
+        padding: 3px;
+    }
+    .div_carousel {
+        padding-top: $padd-t/2;
+    }
+    .a-shop{
+        text-decoration: none;
+        border: $brd;
+        color: black;
+        background-color: white;
+        border-radius: $brd-rad;
+        font-size: 15px;
+        letter-spacing: 3px;
+        padding: 5px;
+    }
+    
+    .a-shop:hover{
+        background-color: pink;
+        color: white;
+    }
+
+}
 
 
-
-
-@media only screen and (min-width:564px){
+@media only screen and (min-width:564px) {
     .btn-nove{
         margin-left: 20em;
         margin-top: 1em;
@@ -44,6 +126,30 @@
     height: 3em;
     z-index: 1;
 }
+
+.div_carousel {
+    padding-top: 70px;
+}
+
+.imagesabout{
+    margin-left: 2em;
+}
+
+.a-shop{
+    text-decoration: none;
+    border: $brd;
+    color: black;
+    background-color: white;
+    border-radius: $brd-rad;
+    font-size: 18px;
+    letter-spacing: 3px;
+    padding: 0.2em;
+}
+
+.a-shop:hover{
+    background-color: pink;
+    color: white;
+}
 }
 
 
@@ -81,6 +187,22 @@
         margin-left: 90%;
         height: 4em;
         z-index: 1;
+    }
+
+    .a-shop{
+        text-decoration: none;
+        border: $brd;
+        color: black;
+        background-color: white;
+        border-radius: $brd-rad;
+        font-size: 20px;
+        letter-spacing: 3px;
+        padding: 0.5em;
+    }
+    
+    .a-shop:hover{
+        background-color: pink;
+        color: white;
     }
 }
 
@@ -120,6 +242,22 @@
         border-radius: 7px;
         padding: 3px;
     }
+
+    .a-shop{
+        text-decoration: none;
+        border: $brd;
+        color: black;
+        background-color: white;
+        border-radius: $brd-rad;
+        font-size: 25x;
+        letter-spacing: 3px;
+        padding: 0.5em;
+    }
+    
+    .a-shop:hover{
+        background-color: pink;
+        color: white;
+    }
 }
 
 
@@ -150,6 +288,26 @@
         margin-left: 93%;
         height: 5em;
         z-index: 1;
+    }
+
+    .imagesabout{
+        margin-left: 2em;
+    }
+
+    .a-shop{
+        text-decoration: none;
+        border: $brd;
+        color: black;
+        background-color: white;
+        border-radius: $brd-rad;
+        font-size: 30px;
+        letter-spacing: 3px;
+        padding: 1em;
+    }
+    
+    .a-shop:hover{
+        background-color: pink;
+        color: white;
     }
 }
 

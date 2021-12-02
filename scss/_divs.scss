@@ -1,5 +1,5 @@
 .section_vendidos{
-   margin-top: 3em;
+   margin-top: 2.5em;
 }
 
 .section_redes{
@@ -22,4 +22,20 @@
 
 .section__newsellerfooter{
     margin-top: 3em;
+}
+
+.a-shop{
+    text-decoration: none;
+    border: $brd;
+    color: black;
+    background-color: white;
+    border-radius: $brd-rad;
+    font-size: 30px;
+    letter-spacing: 3px;
+    padding: 1em;
+}
+
+.a-shop:hover{
+    background-color: pink;
+    color: white;
 }
